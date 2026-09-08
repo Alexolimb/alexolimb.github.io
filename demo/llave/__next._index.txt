@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/1z6x88ihszho0.js"],""]
+4:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:I[22016,["/_next/static/chunks/1z6x88ihszho0.js","/_next/static/chunks/1vx2ukq3b0-fe.js","/_next/static/chunks/1b8vngekcita0.js"],""]
+:HL["/_next/static/chunks/112x6lyko_erl.css","style"]
+3:T513,<!--
+IMPECCABLE DIRECTION CONTRACT · seed e68ac0e3 · mode: experience
+
+THESIS: A portfolio as a body of living ink the visitor looks into, where the work
+surfaces toward the light. Refuses the category default: a dark landing page with a
+grid of equal cards and a row of big numbers.
+
+OWN-WORLD: Ink-blue depth in layers (#0a1024 to #2b4a7d), never flat black. Two lights:
+warm brass (#e8a85c) leads action, cold steel (#8aa9d6) carries data. Frosted glass with
+real refraction over a GPU fluid. Unbounded for display, Onest for text, both Cyrillic.
+
+STORY: The visitor meets a living surface, picks their own door - hire the person or
+commission the studio - walks the work by category, and writes.
+
+FIRST VIEWPORT: Full-bleed ink fills the screen and answers the pointer. The name sits
+low-left at display scale; one sentence of what this is; two doors of deliberately
+unequal weight, the primary in brass.
+
+FORM: Brief-pinned world (living organism: dark glass, travelling light, fluidity),
+which outranks the roll by the skill's own rule. Seed key e68ac0e3 acknowledged; the
+dealt hand contributed one technique - a true GPU fluid solver instead of decorative
+particles.
+
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish
+review, the verdict, and DESIGN.md
+-->e:X
+0:{"buildId":"ZasYuOwhUJpkqoCw4CU-w","data":[{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/112x6lyko_erl.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1z6x88ihszho0.js","async":true}]],["$","html",null,{"lang":"en","className":"unbounded_af269358-module__cbfzsW__variable onest_9bbf94ed-module__hDPk6G__variable manrope_c09ad003-module__B0NuQq__variable golos_text_52c8ac26-module__eV2o_W__variable playfair_display_4752a078-module__93AE-G__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","$L2",null,{"id":"do-kadra","strategy":"beforeInteractive","children":"(function(){try{\nvar d=document.documentElement;\nvar q=new URLSearchParams(location.search).get(\"shrift\");\nif(q===\"2\"||q===\"3\")d.dataset.shrift=q;\nvar p=\"\";\nvar put=location.pathname;\nif(p&&put.indexOf(p)===0)put=put.slice(p.length)||\"/\";\nif(put!==\"/\"&&put!==\"/index.html\")return;\nvar k={\"raboty\":\"/sites\",\"zakaz\":\"/work-with-me\",\"rabota\":\"/work-with-me\",\"nayem\":\"/work-with-me?storona=nayem\",\"o-mne\":\"/work-with-me#o-mne\",\"ceny\":\"/work-with-me#ceny\",\"kontakt\":\"/work-with-me#kontakt\"};\nvar h=location.hash.replace(\"#\",\"\");\nif(k[h])location.replace(p+k[h]);\n}catch(e){}})();"}],["$","div",null,{"hidden":true,"dangerouslySetInnerHTML":{"__html":"$3"}}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"not-found-module__sxuMuG__mir","children":["$","div",null,{"className":"not-found-module__sxuMuG__stolbik","children":[["$","p",null,{"className":"not-found-module__sxuMuG__chislo","children":"404"}],["$","h1",null,{"className":"not-found-module__sxuMuG__zagolovok","children":["This page does not exist",["$","span",null,{"className":"not-found-module__sxuMuG__perevod","children":"Esta página no existe"}]]}],["$","p",null,{"className":"not-found-module__sxuMuG__tekst","children":["The link may be old or mistyped. The site itself is fine — here is the way in.",["$","span",null,{"className":"not-found-module__sxuMuG__perevod","children":"El enlace puede ser antiguo o estar mal escrito. El sitio está bien: aquí tienes la entrada."}]]}],["$","div",null,{"className":"not-found-module__sxuMuG__hody","children":[["$","$L6",null,{"className":"not-found-module__sxuMuG__glavnyy","href":"/","children":["Start","$L7"]}],"$L8","$L9","$La","$Lb"]}]]}]}],["$Lc"]]}]]}]}]]}],"isPartial":"$@d","staleTime":"$e","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+:HL["/_next/static/chunks/04ymhv8fn6acg.css","style"]
+7:["$","span",null,{"className":"not-found-module__sxuMuG__perevodKnopki","children":"Inicio"}]
+8:["$","$L6",null,{"className":"not-found-module__sxuMuG__tihiy","href":"/sites","children":["Sites",["$","span",null,{"className":"not-found-module__sxuMuG__perevodKnopki","children":"Webs"}]]}]
+9:["$","$L6",null,{"className":"not-found-module__sxuMuG__tihiy","href":"/apps","children":["Applications",["$","span",null,{"className":"not-found-module__sxuMuG__perevodKnopki","children":"Aplicaciones"}]]}]
+a:["$","$L6",null,{"className":"not-found-module__sxuMuG__tihiy","href":"/automation","children":["Automation",["$","span",null,{"className":"not-found-module__sxuMuG__perevodKnopki","children":"Automatización"}]]}]
+b:["$","$L6",null,{"className":"not-found-module__sxuMuG__tihiy","href":"/work-with-me","children":["Work with me",["$","span",null,{"className":"not-found-module__sxuMuG__perevodKnopki","children":"Trabajar conmigo"}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/04ymhv8fn6acg.css","precedence":"next"}]
+e:300
+10:true
+e:C
+f:0
+d:"$undefined"
